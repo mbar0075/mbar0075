@@ -1,5 +1,19 @@
 ## Hi there! 👋 I'm Matthias, and yes "I have read the assignment brief!"🤔
 
+## 🏝Stats:
+<p align='center'>
+<a href="https://github.com/mbar0075/">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight"/>
+</a>
+</p>
+
+## 👾 Most Used Languages:
+<p align='center'>
+<a href="https://github.com/mbar0075/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&theme=tokyonight"/>
+</a>
+</p>
+
 ## This is a Github page, so speaking of coding 💻 , I have worked with the following Languages: 
 1. 🐍 Python
 2. ➕ C++
@@ -28,5 +42,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="{[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username={mbar0075})}" />
+
 
