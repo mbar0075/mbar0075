@@ -10,7 +10,7 @@
 ## 👾 Most Used Languages:
 <p align='center'>
 <a href="https://github.com/mbar0075/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=pie&theme=tokyonight"/>
 </a>
 </p>
 
