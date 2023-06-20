@@ -30,7 +30,7 @@
 
 <!--
 ## 👍 ./Intro:
-Hey there! I'm an enthusiastic Artificial Intelligence (AI) student currently pursuing my studies at the University of Malta. My fascination for AI blossomed when I discovered its remarkable extendability and wide range of applications. For me, learning coupled with self-improvement is an exhilarating lifelong adventure, and my journey through the realm of AI has been nothing short of a thrilling roller coaster ride!
+Hey there! I'm an enthusiastic Artificial Intelligence (AI) student currently pursuing my studies at the University of Malta. My fascination for AI blossomed when I discovered its remarkable extendibility  and wide range of applications. For me, learning coupled with self-improvement is an exhilarating lifelong adventure, and my journey through the realm of AI has been nothing short of a thrilling roller coaster ride!
 
 In my repositories, you'll find an assortment of projects that I've built from scratch, allowing me to explore and gain knowledge about various programming languages, tools, and technologies. This ongoing exploration offers me boundless possibilities and opportunities to fuse my passion for AI with a sense of curiosity and excitement. 🚀💥
 
