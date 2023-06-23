@@ -53,7 +53,7 @@ In my repositories, you'll find an assortment of projects that I've built from s
 
 ## 🎮 ./Skills:
 <p align='center'>
-<a href="https://github.com/mbar0075/?tab=repositories">
+<a href="https://github.com/mbar0075?tab=repositories">
   <img align="center" src="https://github.com/mbar0075/mbar0075/assets/103250564/f1e02dce-f4f4-46db-8477-f50a9bb0e044"/>
 </a>
 </p>
