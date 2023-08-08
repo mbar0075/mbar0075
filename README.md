@@ -10,7 +10,7 @@
 ## 👾 Most Used Languages:
 <p align='center'>
 <a href="https://github.com/mbar0075/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=pie&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight"/>
 </a>
 </p>
 
@@ -47,7 +47,7 @@ In my repositories, you'll find an assortment of projects that I've built from s
 ## 👾 ./Languages:
 <p align='center'>
 <a href="https://github.com/mbar0075/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=pie&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight"/>
 </a>
 </p>
 
