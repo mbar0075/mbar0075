@@ -55,14 +55,25 @@ My deep fascination for AI blossomed when I discovered its remarkable extendibil
 
 
 ## 🏝 ./Insights
-<p align='center'>
-<a href="https://github.com/mbar0075/">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight" width="640" height="200"/>
-</a>
-<a href="https://github.com/mbar0075?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight" width="300" height="200"/>
-</a>
-</p>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="text-align: left; border: none;" width="67%">
+      <p align="justify" style>
+        <a href="https://github.com/mbar0075/">
+          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
+        </a>
+      </p>
+    </td>
+    <td style="text-align: right;">
+      <p align="center">
+      <a href="https://github.com/mbar0075?tab=repositories">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
+      </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <hr>
 <p align='center'>
 <a href="https://www.linkedin.com/in/matthias-bartolo-a2324a277/">
