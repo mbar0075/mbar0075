@@ -44,7 +44,7 @@ My deep fascination for AI blossomed when I discovered its remarkable extendibil
 <summary  style="color: lightblue;"><b> Click Here</b></summary>
 <p align='center'>
 </br>
-<b>I have proficiently employed a diverse array of libraries and frameworks, utilizing them to undertake extensive experimentation and software development, with a primary focus on AI solutions.</b>
+<b>I have proficiently employed a diverse array of libraries, frameworks, and coding languages, utilizing them to undertake extensive experimentation and software development, with a primary focus on AI solutions.</b>
 </br></br>
 <a href="https://github.com/mbar0075?tab=repositories">
   <img align="center" src="https://github.com/mbar0075/mbar0075/assets/103250564/f1e02dce-f4f4-46db-8477-f50a9bb0e044"/>
