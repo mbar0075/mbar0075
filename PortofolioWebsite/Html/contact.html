@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="../javascript/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Hey there! I'm Matthias Bartolo, a student pursuing a Bachelor of Science in Information Technology (Artificial Intelligence) at the University of Malta.">
+    <link rel="stylesheet" href="../Css/styles.css">
+    <link id="icon" rel="icon" href="../Images/IconPicture.png" types="image/icon type">
+
+    <title>
+        Matthias Bartolo
+    </title>
+    <script>
+        window.onload = function () {
+        typeWriter("B.Sc IT (Hons) AI Student", 100, "typing");
+        typeWriter("matthias.bartolo.6@gmail.com", 100, "email-link", 2300); // 1000ms delay
+        typeWriter("+356 7906 8295", 100, "mobile-text", 5000); // 2000ms delay
+        };
+    </script>
+
+</head>
+
+
+<div id="header">
+    <ul id="navbarmenu">
+        <li><a href="index.html" class="navbaritem navanimate">Home</a></li>
+        <li><a href="aboutMe.html" class="navbaritem navanimate">About Me</a></li>
+        <li><a href="repositories.html" class="navbaritem navanimate">Repositories</a></li>
+        <li><a href="voluntary.html" class="navbaritem navanimate">Voluntary Work</a></li>
+        <li><a href="#page-top" class="navbaritem" id="selected">Contact Me</a></li>        
+    </ul>
+        <!-- Mobile Hamburger -->
+        <input class="side-menu" type="checkbox" id="side-menu" onclick="showMobileNav()" />
+        <label class="hamb" for="side-menu">
+            <p><span class="hamb-line"></span></p>
+        </label>
+    
+        <!-- Mobile Navbar -->
+        <nav style="display: none" id="nav-mobile" class="custom-list">
+            <ul>
+                <li><a href="index.html" class="navanimate">Home</a></li>
+                <li><a href="aboutMe.html" class="navanimate">About Me</a></li>
+                <li><a href="repositories.html" class="navanimate">Repositories</a></li>
+                <li><a href="voluntary.html" class="navanimate">Voluntary Work</a></li>
+            </ul>
+        </nav>
+</div>
+
+
+    <body>
+        <div class="contact-container">
+            <main>
+                <img id="mainPicture" src="../Images/IconPicture.png" alt="Matthias Bartolo">
+                  <div id="mainText">
+                      <h1>
+                          Contact me
+                      </h1>
+                      <h2 id="typing"></h2>  
+                      <p class="email">Email: <a id="email-link" class="email-link" href="mailto:matthias.bartolo.6@gmail.com"></a></p>
+                      <p class="mobile">Phone: <a id="mobile-text" class="mobile-link" href="tel:+35679068295"></a></p>             
+                  </div>
+              </main>
+          </div>
+
+        <footer id="footer">
+
+        <div id="social">
+            <!-- GitHub -->
+            <a class="sociallink" alt="GitHub" href="https://github.com/mbar0075" target="_blank">
+                <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+                    stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <path
+                        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22">
+                    </path>
+                </svg>
+            </a>
+            <!-- Instagram -->
+            <a class="sociallinkfill" alt="Instagram" href="https://www.instagram.com/matthias.bartolo/" target="_blank">
+                <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFFFFF">
+                    <path
+                        d="M16.98 0a6.9 6.9 0 0 1 5.08 1.98A6.94 6.94 0 0 1 24 7.02v9.96c0 2.08-.68 3.87-1.98 5.13A7.14 7.14 0 0 1 16.94 24H7.06a7.06 7.06 0 0 1-5.03-1.89A6.96 6.96 0 0 1 0 16.94V7.02C0 2.8 2.8 0 7.02 0h9.96zm.05 2.23H7.06c-1.45 0-2.7.43-3.53 1.25a4.82 4.82 0 0 0-1.3 3.54v9.92c0 1.5.43 2.7 1.3 3.58a5 5 0 0 0 3.53 1.25h9.88a5 5 0 0 0 3.53-1.25 4.73 4.73 0 0 0 1.4-3.54V7.02a5 5 0 0 0-1.3-3.49 4.82 4.82 0 0 0-3.54-1.3zM12 5.76c3.39 0 6.2 2.8 6.2 6.2a6.2 6.2 0 0 1-12.4 0 6.2 6.2 0 0 1 6.2-6.2zm0 2.22a3.99 3.99 0 0 0-3.97 3.97A3.99 3.99 0 0 0 12 15.92a3.99 3.99 0 0 0 3.97-3.97A3.99 3.99 0 0 0 12 7.98zm6.44-3.77a1.4 1.4 0 1 1 0 2.8 1.4 1.4 0 0 1 0-2.8z" />
+                </svg>
+            </a>
+            <!-- Facebook -->
+            <a class="sociallinkfill" alt="Facebook"
+                href="https://www.facebook.com/matthias.bartolo.1/" target="_blank">
+                <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFFFFF">
+                    <path
+                        d="M14,6h3a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H14A5,5,0,0,0,9,7v3H7a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H9v7a1,1,0,0,0,1,1h2a1,1,0,0,0,1-1V14h2.22a1,1,0,0,0,1-.76l.5-2a1,1,0,0,0-1-1.24H13V7A1,1,0,0,1,14,6Z"/>
+                </svg>
+            </a>
+            <!-- LinkedIn -->
+            <a class="sociallinkfill" alt="LinkedIn"
+            href="https://www.linkedin.com/in/matthias-bartolo-a2324a277/" target="_blank">
+            <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFFFFF">
+                <path
+                    d="M22.23 0H1.77C.8 0 0 .77 0 1.72v20.56C0 23.23.8 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.72V1.72C24 .77 23.2 0 22.23 0zM7.27 20.1H3.65V9.24h3.62V20.1zM5.47 7.76h-.03c-1.22 0-2-.83-2-1.87 0-1.06.8-1.87 2.05-1.87 1.24 0 2 .8 2.02 1.87 0 1.04-.78 1.87-2.05 1.87zM20.34 20.1h-3.63v-5.8c0-1.45-.52-2.45-1.83-2.45-1 0-1.6.67-1.87 1.32-.1.23-.11.55-.11.88v6.05H9.28s.05-9.82 0-10.84h3.63v1.54a3.6 3.6 0 0 1 3.26-1.8c2.39 0 4.18 1.56 4.18 4.89v6.21z"/>
+            </svg>
+            <!-- Google Scholar -->
+            <a class="sociallinkfill" alt="Google Scholar"
+            href="https://scholar.google.com/" target="_blank">
+            <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFFFFF">
+                <path
+                    d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/>
+            </svg>
+            <!-- Leet Code -->
+            <a class="sociallinkfill" alt="LeetCode"
+            href="https://leetcode.com/mbar0075/" target="_blank">
+            <svg class="footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFFFFF">
+                <path
+                d="M16.102 17.93l-2.697 2.607c-.466.467-1.111.662-1.823.662s-1.357-.195-1.824-.662l-4.332-4.363c-.467-.467-.702-1.15-.702-1.863s.235-1.357.702-1.824l4.319-4.38c.467-.467 1.125-.645 1.837-.645s1.357.195 1.823.662l2.697 2.606c.514.515 1.365.497 1.9-.038.535-.536.553-1.387.039-1.901l-2.609-2.636a5.055 5.055 0 0 0-2.445-1.337l2.467-2.503c.516-.514.498-1.366-.037-1.901-.535-.535-1.387-.552-1.902-.038l-10.1 10.101c-.981.982-1.494 2.337-1.494 3.835 0 1.498.513 2.895 1.494 3.875l4.347 4.361c.981.979 2.337 1.452 3.834 1.452s2.853-.512 3.835-1.494l2.609-2.637c.514-.514.496-1.365-.039-1.9s-1.386-.553-1.899-.039zM20.811 13.01H10.666c-.702 0-1.27.604-1.27 1.346s.568 1.346 1.27 1.346h10.145c.701 0 1.27-.604 1.27-1.346s-.569-1.346-1.27-1.346z"/>
+            </svg>
+            <!--For svg's: https://www.svgviewer.dev/s/497955/facebook -->
+        </div>
+    </footer>
+
+      </body>
+
+</html>

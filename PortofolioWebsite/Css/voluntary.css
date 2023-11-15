@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+:root {
+    --white: #f5f5f5;
+    --dark-blue: #050A30;
+    --navy-blue: #000C66;
+    --normal-blue: #000C66;
+    --baby-blue: #7EC8E3;
+    --new-blue: #1f15a3;
+    --description-blue: #aabcf5;
+    --ai-button-color: #7795f8;
+    --topics-color: #1842eb;
+    --ai-button-color-hover: #5b6cb8;
+}
+
+/* *:not(header) {box-sizing: border-box} */
+body {font-family: Ubuntu, sans-serif; margin:0}
+.mySlides {
+    display: none;
+    align-items: center;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  margin-top: 3em;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: var(--white);
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: var(--ai-button-color-hover);
+  opacity: 0.8;
+}
+
+/* Caption text */
+.text {
+  color: var(--white);
+  font-size: 2em;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: var(--white);
+    font-size: 12px;
+    padding: 0.5em 2.5em;
+    position: absolute;
+    top: 0;
+    text-shadow: -1px -1px 0 var(--new-blue),  
+                 1px -1px 0 var(--new-blue),
+                 -1px 1px 0 var(--new-blue),
+                 1px 1px 0 var(--new-blue);
+  }
+  
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: var(--white);
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: var(--ai-button-color-hover);
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+.carousel-img {
+    width: auto;
+    height: 35em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border: 3px solid var(--new-blue);
+}
+
+.carousel-img:hover{
+    opacity: 0.95;
+}
+
+.photo-album-container{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.voluntary{
+  margin-top: 7em;
+  margin-bottom: 4em;
+}
+
+.horizontal-content-voluntary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3em;
+  padding-bottom: 2em;
+}
+
+.content1 {
+  font-size: 1em;
+  padding-left: 20px;
+  display: flex; /* Use flexbox */
+  align-items: center; /* Vertically center content */
+  /* float: left; */
+  margin-right: 2em;
+}
+
+.content1:hover {
+  opacity: 0.90;
+  color: var(--ai-button-color);
+  /* Vertical align the text */
+  align-items: center;
+}
+
+.content2 {
+  max-width: 25%;
+  max-height: 15%;
+  display: flex; /* Use flexbox */
+  align-items: center; /* Vertically center content */
+  /* float: left; */
+}
+
+.content2:hover {
+  opacity: 0.90;
+  color: var(--ai-button-color);
+}
+
+.image {
+  width: auto;
+  height: 35em;
+  border-radius: 20px;
+  border: 3px solid var(--new-blue);
+  /* Other image styles as required */
+  transition: border-color 0.5s ease, opacity 0.5s ease; /* Adding transition for smooth color change */
+  transform: scale(0); /* Initially set the image to be scaled down */
+  animation: scaleUpImage 2s forwards; /* Apply the scale-up animation */
+}
+
+@keyframes scaleUpImage {
+  from {
+    transform: scale(0.2);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.image:hover {
+  border-color: var(--ai-button-color); /* Change border color on hover */
+  opacity: 0.90;
+}
+
+.text-voluntary {
+  width: 30em; /* Set a fixed width for the paragraph */
+  height: 20em; /* Set a fixed height for the paragraph */
+  padding: 0.625em; /* Add padding for spacing inside the chunk */
+  text-align: justify; /* Justify text */
+  line-height: 1.5; /* Improve readability with slightly increased line height */
+  /* Other styles as needed */
+  animation: fadeInText 2s forwards; /* Apply the fade-in animation */
+  transition: opacity 0.5s ease, color 0.5s ease;
+}
+
+@keyframes fadeInText {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.text-voluntary:hover {
+  opacity: 0.90;
+  color: var(--topics-color);
+}
+
+
+@media only screen and (max-width: 767px) {
+    .carousel-img {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .photo-album-container{
+        margin-bottom: 2em;
+        width: 85%;
+        margin-left:auto;
+        margin-right:auto;
+        display: block;
+    }
+
+    .dot {
+        height: 10px;
+        width: 10px;
+    }
+
+    .text {
+        font-size: 0.8em;
+    }
+
+    .horizontal-content-voluntary{
+        flex-direction: column;
+        gap:0;
+    }
+
+    .content1, 
+    .content2{
+      width: 100%;
+      height:auto;
+      max-width: none;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-right: 0;
+      padding-left: 0;
+    }
+
+    .image{
+      width: 80%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+
+    .text-voluntary{
+      font-size: 0.75em;
+      width: 95%;
+      align-items: center;
+    }
+
+    .image:hover{
+      border-color: initial;
+      opacity: 1;
+    }
+
+    .text-voluntary:hover{
+      opacity: 1;
+      color: var(--white);
+    }
+
+    .voluntary{
+      width: 90%;
+      margin-left:auto;
+      margin-right:auto;
+      display: block;
+    }
+}
+  

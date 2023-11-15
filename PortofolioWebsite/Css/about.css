@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+:root {
+    --white: #f5f5f5;
+    --dark-blue: #050A30;
+    --navy-blue: #000C66;
+    --normal-blue: #000C66;
+    --baby-blue: #7EC8E3;
+    --new-blue: #1f15a3;
+    --description-blue: #aabcf5;
+    --ai-button-color: #7795f8;
+    --topics-color: #1842eb;
+    --ai-button-color-hover: #5b6cb8;
+}
+
+.about-container{
+    margin-top: 7em;
+    margin-bottom: 4em;
+}
+
+/* Styling the important heading */
+.h1-important {
+    font-size: 2.5em;
+    align-self: flex-start;
+    transition: opacity 0.5s ease, color 0.5s ease;
+    animation: fadeInText 4s forwards; /* Apply the fade-in animation */
+}
+
+.h1-important:hover {
+    color: var(--ai-button-color); /* Darker blue color */
+    opacity: 0.90;
+}
+
+.h3-important {
+    font-size: 1.2em;
+    align-self: flex-start;
+    animation: fadeInText 5s forwards; /* Apply the fade-in animation */
+}
+
+/* Styling the university link */
+.university-link {
+    color: var(--topics-color); /* Blue color */
+    text-decoration: none;
+}
+
+.university-link:hover {
+    text-decoration: underline;
+    color: var(--ai-button-color); /* Darker blue color */
+}
+
+/* Styling the voluntary content container */
+.horizontal-content-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 20em;
+    margin-right: 20em;
+}
+
+.horizontal-content-about-imgs-skills{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3em;
+  padding-bottom: 2em;
+  margin-right: 5em;
+}
+
+.horizontal-content-about-imgs{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3em;
+  padding-bottom: 2em;
+  margin-right: 5em;
+}
+
+/* Styling the content1 and content2 areas */
+.content1 {
+    font-size: 1em;
+    padding-left: 20px;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center content */
+    /* float: left; */
+    margin-right: 2em;
+  }
+  
+  .content1:hover {
+    opacity: 0.90;
+    color: var(--ai-button-color);
+    /* Vertical align the text */
+    align-items: center;
+  }
+  
+  .content2 {
+    max-width: 25%;
+    max-height: 15%;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center content */
+    /* float: left; */
+  }
+  
+  .content2:hover {
+    opacity: 0.90;
+    color: var(--ai-button-color);
+  }
+
+/* Styling the text in content1 */
+.text-about {
+    width: 30em; /* Set a fixed width for the paragraph */
+    height: 20em; /* Set a fixed height for the paragraph */
+    padding: 0.625em; /* Add padding for spacing inside the chunk */
+    text-align: justify; /* Justify text */
+    line-height: 1.5; /* Improve readability with slightly increased line height */
+    /* Other styles as needed */
+    animation: fadeInText 2s forwards; /* Apply the fade-in animation */
+    transition: opacity 0.5s ease, color 0.5s ease;
+}
+
+@keyframes fadeInText {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+/* Styling the image in content2 */
+.about-image {
+    width: auto;
+    height: 35em;
+    border-radius: 20px;
+    border: 3px solid var(--new-blue);
+    transition: border-color 0.5s ease, opacity 0.5s ease; /* Adding transition for smooth color change */
+    transform: scale(0); /* Initially set the image to be scaled down */
+    animation: scaleUpImage 2s forwards; /* Apply the scale-up animation */
+}
+
+@keyframes scaleUpImage {
+    from {
+      transform: scale(0.2);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
+  .about-image:hover {
+    border-color: var(--ai-button-color); /* Change border color on hover */
+    opacity: 0.90;
+  }
+
+  .hr-about{
+    width: 63%;
+    height: 3px;
+    background-color: var(--new-blue);
+    border: none;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .content1, 
+    .content2{
+      width: 100%;
+      height:auto;
+      max-width: none;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-right: 0;
+      padding-left: 0;
+    }
+
+    .about-image{
+      width: 90%;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+
+    .text-about{
+      font-size: 0.5em;
+      width: 95%;
+      align-items: center;
+    }
+
+    .about-image:hover{
+      border-color: initial;
+      opacity: 1;
+    }
+
+    .text-about:hover{
+      opacity: 1;
+      color: var(--white);
+    }
+
+    .hr-about{
+        width: 90%;
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+
+    .horizontal-content-about,
+    .horizontal-content-about-imgs{
+        margin-right: 1em;
+        margin-left: 1em;
+    }
+
+    .horizontal-content-about-imgs-skills{
+        flex-direction: column;
+    }
+
+    .horizontal-content-about{
+        margin-bottom: 2em;
+    }
+
+    .h1-important{
+        font-size: 1.2em;
+    }
+
+    .h3-important{
+        font-size: 0.8em;
+    }
+
+    .skills-text{
+        font-size: 0.8em;
+        margin-right: 20%;
+        margin-left: 20%;
+    }
+
+    .skills-image{
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        background-color: var(--white);
+    }
+  }
