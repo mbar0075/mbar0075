@@ -114,9 +114,7 @@ fetch(`https://api.github.com/users/${username}/repos`)
         repoElement.appendChild(topics);
         repoElement.appendChild(extraContainer);
   
-        repositoriesContainer.appendChild(repoElement);
-
-        
+        repositoriesContainer.appendChild(repoElement);     
       });
     };
 

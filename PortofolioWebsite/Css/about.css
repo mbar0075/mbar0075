@@ -20,37 +20,34 @@
     margin-bottom: 4em;
 }
 
-/* Styling the important heading */
 .h1-important {
     font-size: 2.5em;
     align-self: flex-start;
     transition: opacity 0.5s ease, color 0.5s ease;
-    animation: fadeInText 4s forwards; /* Apply the fade-in animation */
+    animation: fadeInText 4s forwards;
 }
 
 .h1-important:hover {
-    color: var(--ai-button-color); /* Darker blue color */
+    color: var(--ai-button-color);
     opacity: 0.90;
 }
 
 .h3-important {
     font-size: 1.2em;
     align-self: flex-start;
-    animation: fadeInText 5s forwards; /* Apply the fade-in animation */
+    animation: fadeInText 5s forwards;
 }
 
-/* Styling the university link */
 .university-link {
-    color: var(--topics-color); /* Blue color */
+    color: var(--topics-color);
     text-decoration: none;
 }
 
 .university-link:hover {
     text-decoration: underline;
-    color: var(--ai-button-color); /* Darker blue color */
+    color: var(--ai-button-color);
 }
 
-/* Styling the voluntary content container */
 .horizontal-content-about {
     display: flex;
     flex-direction: column;
@@ -80,29 +77,25 @@
   margin-right: 5em;
 }
 
-/* Styling the content1 and content2 areas */
 .content1 {
     font-size: 1em;
     padding-left: 20px;
-    display: flex; /* Use flexbox */
-    align-items: center; /* Vertically center content */
-    /* float: left; */
+    display: flex; 
+    align-items: center;
     margin-right: 2em;
   }
   
   .content1:hover {
     opacity: 0.90;
     color: var(--ai-button-color);
-    /* Vertical align the text */
     align-items: center;
   }
   
   .content2 {
     max-width: 25%;
     max-height: 15%;
-    display: flex; /* Use flexbox */
-    align-items: center; /* Vertically center content */
-    /* float: left; */
+    display: flex;
+    align-items: center;
   }
   
   .content2:hover {
@@ -110,15 +103,13 @@
     color: var(--ai-button-color);
   }
 
-/* Styling the text in content1 */
 .text-about {
-    width: 30em; /* Set a fixed width for the paragraph */
-    height: 20em; /* Set a fixed height for the paragraph */
-    padding: 0.625em; /* Add padding for spacing inside the chunk */
-    text-align: justify; /* Justify text */
-    line-height: 1.5; /* Improve readability with slightly increased line height */
-    /* Other styles as needed */
-    animation: fadeInText 2s forwards; /* Apply the fade-in animation */
+    width: 30em;
+    height: 20em; 
+    padding: 0.625em; 
+    text-align: justify; 
+    line-height: 1.5;
+    animation: fadeInText 2s forwards;
     transition: opacity 0.5s ease, color 0.5s ease;
 }
 
@@ -126,33 +117,34 @@
     from {
       opacity: 0;
     }
+
     to {
       opacity: 1;
     }
   }
 
-/* Styling the image in content2 */
 .about-image {
     width: auto;
     height: 35em;
     border-radius: 20px;
     border: 3px solid var(--new-blue);
-    transition: border-color 0.5s ease, opacity 0.5s ease; /* Adding transition for smooth color change */
-    transform: scale(0); /* Initially set the image to be scaled down */
-    animation: scaleUpImage 2s forwards; /* Apply the scale-up animation */
+    transition: border-color 0.5s ease, opacity 0.5s ease;
+    transform: scale(0);
+    animation: scaleUpImage 2s forwards;
 }
 
 @keyframes scaleUpImage {
     from {
       transform: scale(0.2);
     }
+
     to {
       transform: scale(1);
     }
   }
   
   .about-image:hover {
-    border-color: var(--ai-button-color); /* Change border color on hover */
+    border-color: var(--ai-button-color);
     opacity: 0.90;
   }
 
@@ -191,6 +183,7 @@
       font-size: 0.5em;
       width: 95%;
       align-items: center;
+      margin-top: 7em;
     }
 
     .about-image:hover{
