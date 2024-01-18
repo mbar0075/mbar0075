@@ -49,6 +49,11 @@ My deep fascination for AI blossomed when I discovered its remarkable extendibil
 <a href="https://github.com/mbar0075?tab=repositories">
   <img align="center" src="https://github.com/mbar0075/mbar0075/assets/103250564/32fd2f1e-33f0-4180-936f-dac318130bab"/>
 </a>
+
+<br>
+
+<p align='center'>
+  <img src="Assets/leetCodeBadge.gif" width="20%" style="display: block; margin: 0 auto;"/>
 </p>
 </details>
 </div>
