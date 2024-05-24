@@ -29,25 +29,31 @@
 ## Feel Free to have a look around 🧐 in the Repositories tab.
 -->
 
-## 👋 ./About me
-<div align='center'>
+# Hey there, 👋 my name is Matthias Bartolo!
+## Student | Researcher | Developer | Academic Author | AI Enthusiast
+<div align='justify'>
   
-Hey there! I'm an enthusiastic **Artificial Intelligence (AI)** **Student** currently pursuing my studies at the **[University of Malta](https://www.um.edu.mt/)**. 
+I'm Matthias Bartolo, an undergraduate student currently pursuing a Bachelor of Science in Information Technology **[(Artificial Intelligence)](https://www.ibm.com/topics/artificial-intelligence?mhsrc=ibmsearch_a&mhq=artificial%20intelligence)** at the **[University of Malta](https://www.um.edu.mt/)**. 
 </div>
-<hr>
+
+## 🚀 ./About me
+
 <div>
-My deep fascination for AI blossomed when I discovered its remarkable extendibility and wide range of applications. In my repositories, you'll discover a range of projects, including those I've developed from the ground up and various applications employing state-of-the-art models.
+My deep fascination for AI started when I discovered its remarkable extendibility and wide range of applications. In my repositories, you'll discover a range of projects, including those I've developed from the ground up and various applications employing state-of-the-art models.
 </div>
 </br>
 <div align='center'>
   <details>
-<summary  style="color: lightblue;"><b> Click Here</b></summary>
+  <summary style="color: navyblue; cursor: pointer; font-size: 24px;"><b>🌟 ./Abilities 🤍</b></summary>
+
 <p align='center'>
 </br>
-<b>I have proficiently employed a diverse array of libraries, frameworks, and coding languages, utilizing them to undertake extensive experimentation and software development, with a primary focus on AI solutions.</b>
+
+I have proficiently employed a diverse array of libraries, frameworks, and coding languages, utilising them to undertake extensive experimentation and software development, with a primary focus on AI solutions, particularly in the field of **[Computer Vision (CV)](https://www.ibm.com/topics/computer-vision)**. However, I have also worked on projects involving **[Reinforcement Learning (RL)](https://www.ibm.com/topics/reinforcement-learning)**, **[Deep Learning (DL)](https://www.ibm.com/topics/deep-learning)**, **[Natural Language Processing (NLP)](https://www.ibm.com/topics/natural-language-processing)**, **[Speech Technology](https://www.ibm.com/topics/speech-recognition)**, **[Game AI](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)**, **[Intelligent Interfaces](https://en.wikipedia.org/wiki/Intelligent_user_interface)**, and **[Robotics](https://en.wikipedia.org/wiki/Robotics)**. Here are some of the tools I have worked with:
+</p>
 </br></br>
 <a href="https://github.com/mbar0075?tab=repositories">
-  <img align="center" src="https://github.com/mbar0075/mbar0075/assets/103250564/32fd2f1e-33f0-4180-936f-dac318130bab"/>
+  <img align="center" src="Assets/Skill Bubble Chart.png"/>
 </a>
 
 <br>
@@ -59,19 +65,19 @@ My deep fascination for AI blossomed when I discovered its remarkable extendibil
 </div>
 
 
-## 🏝 ./Insights
+## 📚 ./Badges
 <table style="border: none;">
   <tr style="border: none;">
     <td style="text-align: left; border: none;" width="67%">
       <p align="justify" style>
-        <a href="https://github.com/mbar0075/">
+        <a href="https://github.com/mbar0075/" target="_blank">
           <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
         </a>
       </p>
     </td>
     <td style="text-align: right;">
       <p align="center">
-      <a href="https://github.com/mbar0075?tab=repositories">
+      <a href="https://github.com/mbar0075?tab=repositories" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
       </a>
       </p>
@@ -79,12 +85,27 @@ My deep fascination for AI blossomed when I discovered its remarkable extendibil
   </tr>
 </table>
 
-<hr>
+## 📫 ./Contact Me
 <p align='center'>
+<a href="https://scholar.google.com/citations?user=47gHMmwAAAAJ&hl=en&oi=ao">
+  <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"/>
+</a>
 <a href="https://www.linkedin.com/in/matthias-bartolo-a2324a277/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
+<a href="https://malta.academia.edu/MatthiasBartolo">
+  <img align="center" src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" target="_blank"/>
+</a>
+<a href="https://leetcode.com/mbar0075/">
+  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/>
+</a>
+<a href="https://orcid.org/0009-0006-1353-4556">
+  <img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"/>
 </a>
 <a href="https://github.com/mbar0075?tab=repositories">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+</a>
+<a href="https://twitter.com/MatthiasBar6">
+  <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
 </a>
 </p>
