@@ -32,8 +32,8 @@
 # Hey there, 👋 my name is Matthias Bartolo!
 ## Student | Researcher | Developer | Academic Author | AI Enthusiast
 <div align='justify'>
-  
-I'm Matthias Bartolo, an undergraduate student currently pursuing a Bachelor of Science in Information Technology **[(Artificial Intelligence)](https://www.ibm.com/topics/artificial-intelligence?mhsrc=ibmsearch_a&mhq=artificial%20intelligence)** at the **[University of Malta](https://www.um.edu.mt/)**. 
+
+I'm Matthias Bartolo, an enthusiastic **[(Artificial Intelligence)](https://www.ibm.com/topics/artificial-intelligence?mhsrc=ibmsearch_a&mhq=artificial%20intelligence)** graduate from the **[University of Malta](https://www.um.edu.mt/)**. 
 </div>
 
 ## 🚀 ./About me
