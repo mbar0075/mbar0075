@@ -30,7 +30,7 @@
 -->
 
 # Hey there, 👋 my name is Matthias Bartolo!
-## Student | Researcher | Developer | Academic Author | AI Enthusiast
+## Student | Researcher | Developer | Academic Author | AI Enthusiast | Freelance Developer
 <div align='justify'>
 
 I'm Matthias Bartolo, an enthusiastic **[(Artificial Intelligence)](https://www.ibm.com/topics/artificial-intelligence?mhsrc=ibmsearch_a&mhq=artificial%20intelligence)** graduate from the **[University of Malta](https://www.um.edu.mt/)**. 
@@ -93,11 +93,17 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 <a href="https://www.linkedin.com/in/matthias-bartolo-a2324a277/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
+<a href="https://www.kaggle.com/matthiasbartolo/">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"/>
+</a>
 <a href="https://malta.academia.edu/MatthiasBartolo">
   <img align="center" src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" target="_blank"/>
 </a>
 <a href="https://leetcode.com/mbar0075/">
   <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/>
+</a>
+<a href="https://huggingface.co/mbar0075/">
+  <img align="center" src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=Hugging Face&logoColor=black" target="_blank"/>
 </a>
 <a href="https://orcid.org/0009-0006-1353-4556">
   <img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"/>
