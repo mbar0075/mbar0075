@@ -63,25 +63,25 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc5MWI3ampmaWpueHJod29tNTE2anlmbDN5cmFzNnVsbmU1bWd0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SH1pU0UWpDY0n6zKFm/giphy.gif" width="77">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc5MWI3ampmaWpueHJod29tNTE2anlmbDN5cmFzNnVsbmU1bWd0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SH1pU0UWpDY0n6zKFm/giphy.gif" width="107">
     </td>
     <td align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyOWgxY3oyc25vcDA2eWZ3ajFiZ2k1b3p2YjNoa3UwdWljYWRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpvRClIbILau2naK9r/giphy.gif" width="77">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyOWgxY3oyc25vcDA2eWZ3ajFiZ2k1b3p2YjNoa3UwdWljYWRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tpvRClIbILau2naK9r/giphy.gif" width="107">
     </td>
     <!-- <td align="center">
-      <img src="https://media.giphy.com/media/Tp878oRTZNuDzhCotI/giphy.gif" width="77">
+      <img src="https://media.giphy.com/media/Tp878oRTZNuDzhCotI/giphy.gif" width="107">
     </td> -->
     <td align="center">
-      <img src="https://media.giphy.com/media/CP6v0XekrWVyYjo8gr/giphy.gif" width="77">
+      <img src="https://media.giphy.com/media/CP6v0XekrWVyYjo8gr/giphy.gif" width="107">
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/d7rSWZcXDXwFIrcsY4/giphy.gif" width="77">
+      <img src="https://media.giphy.com/media/d7rSWZcXDXwFIrcsY4/giphy.gif" width="107">
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/41Z5HbRpqkXl4u9zTX/giphy.gif" width="77">
+      <img src="https://media.giphy.com/media/41Z5HbRpqkXl4u9zTX/giphy.gif" width="107">
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/tLf9ZoKILGR9bY02uM/giphy.gif" width="77">
+      <img src="https://media.giphy.com/media/tLf9ZoKILGR9bY02uM/giphy.gif" width="107">
     </td>
   </tr>
 </table>
