@@ -141,11 +141,11 @@ When I’m not immersed in AI projects, you’ll likely find me:
 <a href="https://malta.academia.edu/MatthiasBartolo">
   <img align="center" src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" target="_blank"/>
 </a>
-<a href="https://huggingface.co/mbar0075/">
-  <img align="center" src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=Hugging Face&logoColor=black" target="_blank"/>
-</a>
 <a href="https://leetcode.com/mbar0075/">
   <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/>
+</a>
+<a href="https://huggingface.co/mbar0075/">
+  <img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=Hugging%20Face&logoColor=black&labelColor=FFD21E&color=FFD21E" target="_blank"/>
 </a>
 <a href="https://orcid.org/0009-0006-1353-4556">
   <img align="center" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"/>
