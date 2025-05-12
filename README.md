@@ -89,7 +89,7 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 
 ## 🚀 About Me  
 
-Hello! I’m Matthias Bartolo. I’m a graduate in **Artificial Intelligence** and **Computer Science**, specialising in the field of **Computer Vision**, which enables machines *“see.”* I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**.  
+Hello! I’m Matthias Bartolo. I’m a graduate in **Artificial Intelligence** and **Computer Science**, specialising in the field of **Computer Vision**, which enables machines to *“see.”* I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**.  
 
 While I’m passionate about technology, my true goal is to use AI in ways that can positively impact the world, especially for those who are less fortunate. I strive to contribute to meaningful change through the projects and applications I work on.
 
