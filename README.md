@@ -89,15 +89,16 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 
 ## 🚀 About Me  
 
-Hello! I’m Matthias Bartolo. I’m a graduate in **Artificial Intelligence** and **Computer Science**, specialising in the field of **Computer Vision**, which enables machines to *“see.”* I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**.  
+Hello! I’m Matthias Bartolo. I’m a graduate with a **B.Sc. IT (Hons)** in **Artificial Intelligence** and **Computer Science**, specialising in the field of **Computer Vision**, which enables machines to *“see.”* I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**. I continue to challenge myself by staying up to date with new AI technologies and constantly improving my tools and skills for future projects.
 
-While I’m passionate about technology, my true goal is to use AI in ways that can positively impact the world, especially for those who are less fortunate. I strive to contribute to meaningful change through the projects and applications I work on.
+While I’m passionate about technology, my true goal is to use AI in ways that are truthful, rooted in justice, and inspired by the idea of being men and women for others—especially in serving those who are less fortunate. I strive to contribute to meaningful change through the projects and applications I work on, aiming to help make the world a better place than I found it.
 
 When I’m not immersed in AI projects, you’ll likely find me:  
 
 - 🙏 **Volunteering at local religious events.**
 - 🌳 **Taking walks in nature and appreciating the simple beauty around me.**
 - 🎥 **Watching classic movies and series, especially from the '60s to the '90s.**
+- **🎬 Watching faith-based series like The Chosen and House of David that bring Scripture to life.**
 - 🎶 **Enjoying a wide range of music—from worship and soundtracks to rock, country, classical, and beyond.**
 - 📖 **Studying the Word of God and drawing inspiration for the day ahead.**
 
@@ -152,6 +153,9 @@ When I’m not immersed in AI projects, you’ll likely find me:
 </a>
 <a href="https://www.researchgate.net/profile/Matthias-Bartolo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+<a href="https://matbar.vercel.app/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Website-3EB489?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://medium.com/@matthias.bartolo.21" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
