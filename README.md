@@ -89,9 +89,9 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 
 ## 🚀 About Me  
 
-Hello! I’m Matthias Bartolo. I’m a graduate with a **B.Sc. IT (Hons)** in **Artificial Intelligence** and **Computer Science**, specialising in the field of **Computer Vision**, which enables machines to *“see.”* I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**. I continue to challenge myself by staying up to date with new AI technologies and constantly improving my tools and skills for future projects.
+Hello! I’m **Matthias Bartolo**. I’m a graduate with a **B.Sc. IT (Hons)** in **Artificial Intelligence** and **Computer Science**, and I later completed an **M.Sc. in ICT by Research** at the University of Malta. I specialise in **Computer Vision**, which enables machines to “see.” I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**. I continue to challenge myself by staying up to date with new AI technologies and constantly improving my tools and skills for future projects.
 
-While I’m passionate about technology, my true goal is to use AI in ways that are truthful, rooted in justice, and inspired by the idea of being men and women for others—especially in serving those who are less fortunate. I strive to contribute to meaningful change through the projects and applications I work on, aiming to help make the world a better place than I found it.
+While I’m passionate about technology, my true goal is to use AI in ways that are truthful, rooted in justice, and inspired by the call to be *men and women for others*—especially in serving those who are less fortunate. Above all, I strive to use the gifts I have been given to praise **God** through my work, seeking to contribute to meaningful change and to help make the world a better place than I found it.
 
 When I’m not immersed in AI projects, you’ll likely find me:  
 
@@ -128,7 +128,7 @@ When I’m not immersed in AI projects, you’ll likely find me:
   <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"/>
 </a>
 <a href="https://www.linkedin.com/in/matthias-bartolo-a2324a277/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0E66C2?style=for-the-badge&logo=linkedin101&logoColor=white" target="_blank"/>
 </a>
 <a href="https://ieeexplore.ieee.org/author/513203295370976" target="_blank">
   <img align="center" src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
