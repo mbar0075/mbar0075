@@ -108,20 +108,27 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
 </table>
 
 
-## 🚀 About Me  
+## 🚀 About Me
 
-Hello! I’m **Matthias Bartolo**. I’m a graduate with a **B.Sc. IT (Hons)** in **Artificial Intelligence** and **Computer Science**, and I later completed an **M.Sc. in ICT by Research** at the University of Malta. I specialise in **Computer Vision**, which enables machines to “see.” I have also worked across various areas of AI, including **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**, while exploring fields like **Natural Language Processing**, **Robotics**, **Speech Technology**, **AI for Games**, and **Intelligent Interfaces**. I continue to challenge myself by staying up to date with new AI technologies and constantly improving my tools and skills for future projects.
+Hello! I’m **Matthias Bartolo**, an AI researcher and developer with a background in **Artificial Intelligence, Computer Science, and Computer Vision**.
 
-While I’m passionate about technology, my true goal is to use AI in ways that are truthful, rooted in justice, and inspired by the call to be *men and women for others*—especially in serving those who are less fortunate. Above all, I strive to use the gifts I have been given to praise **God** through my work, seeking to contribute to meaningful change and to help make the world a better place than I found it.
+Most of my work is focused on **Computer Vision, Machine Learning, and Deep Learning**, although I’ve also worked across areas such as Reinforcement Learning, Natural Language Processing, Robotics, Speech Technology, and Intelligent Interfaces. I enjoy learning about new areas of AI and seeing how they can be applied to real problems.
 
-When I’m not immersed in AI projects, you’ll likely find me:  
+I’ve worked on a range of **applied research projects**, from using AI for **environmental monitoring and sustainability**, to **cultural heritage preservation, maritime research, and sports**. I particularly enjoy projects where technology can be used to solve a problem outside of technology itself.
 
-- 🙏 **Volunteering at local religious events.**
-- 🌳 **Taking walks in nature and appreciating the simple beauty around me.**
-- 🎥 **Watching classic movies and series, especially from the '60s to the '90s.**
-- **🎬 Watching faith-based series like The Chosen and House of David that bring Scripture to life.**
-- 🎶 **Enjoying a wide range of music—from worship and soundtracks to rock, country, classical, and beyond.**
-- 📖 **Studying the Word of God and drawing inspiration for the day ahead.**
+I believe technology has a lot of potential to help people, and that it should be used to **help others and give people opportunities**, especially those who need them most. I’m interested in using the skills I have to build things that are useful and, in some small way, make things better for others.
+
+My faith is also an important part of how I approach my work. I try to use the opportunities and abilities I’ve been given well, and ultimately to use them in service of others and to **praise God through my work**.
+
+When I’m not working on AI, you’ll probably find me:
+
+* 🙏 Volunteering at local religious events
+* 🌳 Taking walks in nature
+* 🎥 Watching classic films and series, particularly from the '60s to the '90s
+* 🎬 Watching faith-based series such as *The Chosen* and *House of David*
+* 🎶 Listening to everything from worship and soundtracks to rock, country, and classical music
+* 📖 Studying Scripture
+
 
 ## 📫 How to Reach Me
 <p align='center'> 
