@@ -51,7 +51,28 @@ I have proficiently employed a diverse array of libraries, frameworks, and codin
   <img src="Assets/leetCodeBadge.gif" width="20%" style="display: block; margin: 0 auto;"/>
 </p>
 </details>
-</div> -->
+</div> 
+
+## 📊 My GitHub Projects & Language Stats
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="text-align: left; border: none;" width="67%">
+      <p align="justify" style>
+        <a href="https://github.com/mbar0075/" target="_blank">
+          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
+        </a>
+      </p>
+    </td>
+    <td style="text-align: right;">
+      <p align="center">
+      <a href="https://github.com/mbar0075?tab=repositories" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
+      </a>
+      </p>
+    </td>
+  </tr>
+</table>
+-->
 
 # Hey! I'm Matthias Bartolo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
@@ -102,28 +123,8 @@ When I’m not immersed in AI projects, you’ll likely find me:
 - 🎶 **Enjoying a wide range of music—from worship and soundtracks to rock, country, classical, and beyond.**
 - 📖 **Studying the Word of God and drawing inspiration for the day ahead.**
 
-## 📊 My GitHub Projects & Language Stats
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="text-align: left; border: none;" width="67%">
-      <p align="justify" style>
-        <a href="https://github.com/mbar0075/" target="_blank">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbar0075&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
-        </a>
-      </p>
-    </td>
-    <td style="text-align: right;">
-      <p align="center">
-      <a href="https://github.com/mbar0075?tab=repositories" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbar0075&layout=donut&theme=tokyonight" width="100%" style="display: block; margin: 0 auto;"/>
-      </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 📫 How to Reach Me
-<p align='center'>
+<p align='center'> 
 <a href="https://scholar.google.com/citations?user=47gHMmwAAAAJ&hl=en&oi=ao">
   <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"/>
 </a>
@@ -165,6 +166,11 @@ When I’m not immersed in AI projects, you’ll likely find me:
 </a>
 <a href="https://github.com/mbar0075?tab=repositories">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+</a>
+  
+  <br>
+<a href="mailto:matthias.bartolo.21@um.edu.mt">
+  <img align="center" src="https://img.shields.io/badge/Email-matthias.bartolo.21@um.edu.mt-2563EB?style=for-the-badge&logoColor=white" target="_blank"/>
 </a>
 </p>
 <!-- <p align='center'>
